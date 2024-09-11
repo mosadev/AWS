@@ -1,2 +1,2 @@
 # Cloud networking
-- [View Diagram](https://github.com/mosadev/repository/AWS/images/network_aws.PNG)
+- [View Diagram](images/network_aws.PNG)
