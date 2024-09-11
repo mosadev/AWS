@@ -1,2 +1,2 @@
 # Cloud networking
-- [View Diagram](images/network_aws.PNG)
+- ![image] [View Diagram](images/network_aws.PNG)
